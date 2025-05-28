@@ -29,7 +29,7 @@ const Hero = () => {
             Twitter
           </a>
           <a 
-            href="mailto:your@email.com" 
+            href="mailto:mail@davehannes.com" 
             className="text-lg hover:text-gray-300 transition-colors underline decoration-2 underline-offset-4"
           >
             Email
