@@ -6,7 +6,7 @@ const Hero = () => {
     <section className="min-h-screen flex flex-col items-center justify-center bg-black text-white">
       <div className="text-center mb-12">
         <h1 className="text-4xl md:text-6xl font-bold mb-8">
-          David Hannes
+          Dave Hannes
         </h1>
         
         <div className="flex flex-col sm:flex-row gap-6 justify-center">
